@@ -1,0 +1,39 @@
+.card {
+  border: 2px solid black;
+  width: 400px;
+  height: 350px;
+  border-radius: 20px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  background-color: aqua;
+}
+.inputField {
+  margin-top: 30px;
+  padding: 5px 8px;
+  border-radius: 8px;
+}
+.location {
+  padding-top: 15px;
+}
+.city {
+  padding-top: 12px;
+}
+.tempin_max {
+  padding-top: 10px;
+}
+.smell {
+  padding-top: 10px;
+}
+.waveResize .wave {
+  width: 380px;
+  height: 88px;
+  overflow-x: hidden;
+}
+button{
+    padding: 4px 7px;
+}
